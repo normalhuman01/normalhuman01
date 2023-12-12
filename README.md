@@ -32,4 +32,4 @@ const compostapuerta = {
 ```
 ---
 
-⭐️ From [@compostapuerta](https://github.com/normalhuman01)
+⭐️ From [@normalhuman](https://github.com/normalhuman01)
