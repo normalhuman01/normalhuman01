@@ -9,7 +9,7 @@
 ### <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const skills = {
+const normalhuman = {
     code: ["Javascript", "Typescript", "Python", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "chess"],
     technologies: {
