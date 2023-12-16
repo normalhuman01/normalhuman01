@@ -3,7 +3,7 @@
 <p><em>Fullstack Developer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Analyst Solutions Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![GitHub compostapuerta](https://img.shields.io/github/followers/normalhuman01?label=follow&style=social)](https://github.com/normalhuman)
+[![GitHub skills](https://img.shields.io/github/followers/normalhuman01?label=follow&style=social)](https://github.com/normalhuman)
 
 
 ### <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50"> A little more about me...  
