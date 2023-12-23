@@ -9,25 +9,30 @@
 ### <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const normalhuman = {
-    code: ["Javascript", "Typescript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "chess"],
+const normalhuman01 = {
+    code: ["Javascript", "Typescript", "Python", "Java", "Rust", "Go"],
+    askMeAbout: ["web dev", "tech", "app dev", "chess", "system design", "AI/ML"],
     technologies: {
-        mobileApp: ["Flutter App"],
+        mobileApp: ["Flutter App", "React Native", "SwiftUI"],
         frontEnd: {
-            js: ["Vue", "Nuxt", "React", "Angular"],
-            css: ["Sass", "vuetify", "bootstrap"]
+            js: ["Vue", "Nuxt", "React", "Angular", "Next.js", "Svelte"],
+            css: ["Sass", "vuetify", "bootstrap", "tailwindCSS"]
         },
         backEnd: {
-            js: ["node", "express"],
-            java: ["spring boot"],
-            python: ["flask", "django"]
+            js: ["node", "express", "NestJS"],
+            java: ["spring boot", "Quarkus"],
+            python: ["flask", "django", "FastAPI"],
+            rust: ["Actix"],
+            go: ["Gin"]
         },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongoDB", "Oracle", "SQL Server", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "open-cv"]
+        devOps: ["AWS", "Docker🐳", "Nginx", "Kubernetes", "Terraform", "Ansible"],
+        databases: ["mongoDB", "Oracle", "SQL Server", "MySql", "sqlite", "PostgreSQL", "Redis"],
+        misc: ["Firebase", "Socket.IO", "open-cv", "WebAssembly", "GraphQL", "RabbitMQ"],
+        cloudPlatforms: ["AWS", "Google Cloud", "Azure"],
+        frameworksAndLibraries: ["T3 Stack", "Material-UI", "Chakra UI"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
+    architecture: ["Progressive web applications", "Single page applications", "Microservices", "Serverless Architecture"],
+    currentFocus: ["Cross-platform Development", "Cloud-native Solutions", "AI-driven Applications", "Performance Optimization"],
 };
 ```
 ---
