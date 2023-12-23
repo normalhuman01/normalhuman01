@@ -10,8 +10,10 @@
 
 ```javascript
 const normalhuman01 = {
-    code: ["Javascript", "Typescript", "Python", "Java", "Rust", "Go", "PHP", "C#", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "chess", "system design", "AI/ML", "game dev", "software engineering"],
+    code: ["Javascript", "Typescript", "Python", "Java", "Rust", "Go", "PHP",
+            "C#", "C++"],
+    askMeAbout: ["web dev", "tech", "app dev", "chess", "system design", "AI/ML",
+                "game dev", "software engineering"],
     technologies: {
         mobileApp: ["Flutter App", "React Native", "SwiftUI"],
         frontEnd: {
@@ -29,10 +31,13 @@ const normalhuman01 = {
             cpp: ["Qt", "Boost"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx", "Kubernetes", "Terraform", "Ansible"],
-        databases: ["mongoDB", "Oracle", "SQL Server", "MySql", "sqlite", "PostgreSQL", "Redis"],
-        misc: ["Firebase", "Socket.IO", "open-cv", "WebAssembly", "GraphQL", "Composer", "XAMPP"],
+        databases: ["mongoDB", "Oracle", "SQL Server", "MySql", "sqlite", "PostgreSQL",
+                    "Redis"],
+        misc: ["Firebase", "Socket.IO", "open-cv", "WebAssembly", "GraphQL", "Composer",
+                "XAMPP"],
         cloudPlatforms: ["AWS", "Google Cloud", "Azure"],
-        frameworksAndLibraries: ["T3 Stack", "Material-UI", "Chakra UI", "Svelte", "Laravel"],
+        frameworksAndLibraries: ["T3 Stack", "Material-UI", "Chakra UI", "Svelte",
+                                "Laravel"],
         minecraft: {
             development: ["Spigot", "Bukkit", "Forge", "Fabric"],
             scripting: ["Minecraft Scripting API"],
@@ -40,8 +45,12 @@ const normalhuman01 = {
             serverManagement: ["Minecraft Server Setup", "Plugin Configuration"]
         }
     },
-    architecture: ["Progressive web applications", "Single page applications", "Microservices", "Serverless Architecture", "Desktop Applications", "Embedded Systems"],
-    currentFocus: ["Cross-platform Development", "Cloud-native Solutions", "AI-driven Applications", "Performance Optimization", "Interactive Game Development", "System-Level Programming"],
+    architecture: ["Progressive web applications", "Single page applications",
+                    "Microservices", "Serverless Architecture",
+                    "Desktop Applications", "Embedded Systems"],
+    currentFocus: ["Cross-platform Development", "Cloud-native Solutions",
+                    "AI-driven Applications", "Performance Optimization",
+                    "Interactive Game Development", "System-Level Programming"],
 };
 ```
 ---
