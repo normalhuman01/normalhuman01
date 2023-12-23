@@ -1,6 +1,6 @@
 <h2></h2>
 <img align='right' src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="230">
-<p><em>Fullstack Developer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Analyst Solutions Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Fullstack Developer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![GitHub normalhuman](https://img.shields.io/github/followers/normalhuman01?label=follow&style=social)](https://github.com/normalhuman)
