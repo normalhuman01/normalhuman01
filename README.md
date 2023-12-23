@@ -30,7 +30,7 @@ const normalhuman01 = {
         },
         devOps: ["AWS", "Docker🐳", "Nginx", "Kubernetes", "Terraform", "Ansible"],
         databases: ["mongoDB", "Oracle", "SQL Server", "MySql", "sqlite", "PostgreSQL", "Redis"],
-        misc: ["Firebase", "Socket.IO", "open-cv", "WebAssembly", "GraphQL", "RabbitMQ", "Composer", "XAMPP"],
+        misc: ["Firebase", "Socket.IO", "open-cv", "WebAssembly", "GraphQL", "Composer", "XAMPP"],
         cloudPlatforms: ["AWS", "Google Cloud", "Azure"],
         frameworksAndLibraries: ["T3 Stack", "Material-UI", "Chakra UI", "Svelte", "Laravel"],
         minecraft: {
